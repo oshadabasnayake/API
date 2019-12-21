@@ -2,6 +2,7 @@
 ##  Api Docs
 
 ### (1) What is api
+<br>
 ###  Graphql api vs Rest api
 
 * Data fetching
